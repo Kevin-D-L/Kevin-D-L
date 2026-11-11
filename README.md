@@ -2,7 +2,7 @@
 
 AI engineer working on multimodal and agentic systems: speech, vision, and LLM pipelines that run end to end.
 
-B.Tech in Electronics and Computer Engineering (Minor in AI), RAIT Navi Mumbai. Applying for a Master's in AI for Fall 2027.
+B.Tech in Electronics and Computer Engineering (Minor in AI), RAIT Navi Mumbai. 
 
 ## What I've worked on
 
